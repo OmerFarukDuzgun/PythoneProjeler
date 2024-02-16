@@ -1,0 +1,1 @@
+eğer işlemcisi i7 ise ve 8gb ram varise uygun değilise uygundeğil der.

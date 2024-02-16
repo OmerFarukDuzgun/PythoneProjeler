@@ -1,0 +1,2 @@
+öcelikle 3 açi  soruyor 3'ünün toplamı 180 ederse bir açıdır
+3 açının toplamı 180den büyük veya küçük ederse üçgen değildir

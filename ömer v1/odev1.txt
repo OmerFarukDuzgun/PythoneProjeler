@@ -1,0 +1,2 @@
+3 sınavdan kaç aldığını soruyor eğer  ortalamsı 50'nin üstündeyse başarılı oldunuz yazar 
+eğer 50'nin altındaysa başarısız oldunuz yazar.

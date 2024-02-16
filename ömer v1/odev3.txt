@@ -1,0 +1,2 @@
+bagaj ağırlığı 20 veya 20'nin altında ise bir ücret ödemez eğer fazla ise  20kg ile bagajdaki ağırlı çıkartıp 
+çıkan sonuçlada 10'nu çarparak ücreti söyler.

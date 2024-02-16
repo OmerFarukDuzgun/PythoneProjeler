@@ -1,0 +1,2 @@
+öncelikle bir sayı istiyor istenen sayı 15 ve 3e tam bölünüyorsa
+ 15e tam bölünür yazar eğer sayı 15e tam bölünmezse 15e bölünmez yazar 

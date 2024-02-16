@@ -1,0 +1,2 @@
+öncelikle kullanıcı adı sorulur kullanıcı adı=Türkiye
+şifre 1923'den başka girilirse "kullanıcı adı yada şifre yanlış" der 

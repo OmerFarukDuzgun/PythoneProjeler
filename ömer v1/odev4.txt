@@ -1,0 +1,2 @@
+öncelikle 2 ürünün fiyatını isteyip topluyor sonuç 200'ü geçerse %10 indirim 
+eğer 2 ürünün toplamı 200'ü geçmezse indirim olmaz 
